@@ -1,0 +1,7 @@
+Package: scrcpy-mirror
+Version: 1.0
+Maintainer: @stalkersx
+Depends : wget, cmake, libavformat-dev, pkg-config, libsdl2-dev, libavdevice-dev, libusb-1.0-0-dev, meson
+Architecture: all
+Homepage: https://github.com/stalkersx/scrcpy-mirror
+Description: tools mirroring android on kali-linux
