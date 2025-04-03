@@ -12,3 +12,7 @@ if [[ $? -eq 0 ]];then
 else
     echo "! Depends not found on your distribution"
 fi
+
+if [ -f scrcpy-mirror.deb ];then
+	rm scrcpy-mirror.deb
+fi

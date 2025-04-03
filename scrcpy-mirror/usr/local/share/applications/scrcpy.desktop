@@ -9,5 +9,5 @@ Exec=scrcpy -S -m 512 --no-audio
 Icon=scrcpy
 Terminal=false
 Type=Application
-Categories=Other;uiandroid;
+Categories=uiandroid;
 StartupNotify=false

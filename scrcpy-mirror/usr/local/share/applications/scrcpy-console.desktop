@@ -9,5 +9,5 @@ Exec=/bin/sh -c "\\$SHELL -i -c 'scrcpy --pause-on-exit=if-error'"
 Icon=scrcpy
 Terminal=true
 Type=Application
-Categories=Other;uiandroid;
+Categories=uiandroid;
 StartupNotify=false
